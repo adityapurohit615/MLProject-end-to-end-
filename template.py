@@ -22,10 +22,12 @@ list_of_file = [
     f"src/{project_name}/exception.py", # this file will handle the exception handling of our project
     f"src/{project_name}/logger.py", # this file will handle the logging details of our project
     f"src/{project_name}/utils.py", # this file will handle the utilities of our project
-    "app.py"
-    "Dockerfile"
-    "requirements.txt"
+    "__init__"
+    "app.py",
+    "Dockerfile",
+    "requirements.txt",
     "setup.py"
+
 
 
 ]
