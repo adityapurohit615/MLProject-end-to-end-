@@ -1,0 +1,201 @@
+MyUnknownColumn,gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+521,male,group E,high school,free/reduced,none,55,56,51
+737,female,group C,associate's degree,free/reduced,none,57,78,67
+740,female,group D,high school,free/reduced,none,39,52,46
+660,female,group A,some high school,standard,none,71,83,77
+411,male,group D,some high school,free/reduced,none,56,54,52
+678,female,group A,master's degree,standard,none,50,53,58
+626,female,group D,some college,free/reduced,none,69,65,74
+513,female,group C,some college,free/reduced,none,77,90,91
+859,female,group A,some high school,standard,completed,85,90,92
+136,male,group D,high school,standard,none,46,34,36
+811,male,group E,some high school,standard,none,30,26,22
+76,male,group C,some high school,free/reduced,completed,59,69,65
+636,female,group B,some high school,free/reduced,none,72,81,79
+973,female,group D,some college,free/reduced,completed,67,86,83
+938,male,group A,master's degree,free/reduced,none,73,74,72
+899,female,group C,associate's degree,free/reduced,completed,56,68,70
+280,female,group C,some college,standard,none,58,59,66
+883,female,group C,some college,standard,none,60,72,74
+761,female,group D,some college,standard,completed,74,75,79
+319,male,group D,some college,standard,none,44,54,53
+549,male,group B,some college,standard,completed,91,96,91
+174,female,group B,some college,standard,completed,88,95,92
+371,male,group E,some college,standard,none,83,80,73
+527,female,group D,associate's degree,standard,none,65,69,70
+210,female,group D,some college,standard,none,74,89,84
+235,female,group B,high school,standard,none,65,81,73
+101,female,group C,some college,standard,completed,67,81,79
+986,female,group B,bachelor's degree,standard,none,61,72,70
+902,male,group A,associate's degree,standard,none,67,57,53
+947,male,group D,some high school,standard,none,75,74,69
+346,male,group D,some high school,free/reduced,none,62,49,52
+139,male,group E,associate's degree,standard,completed,62,61,58
+621,female,group C,high school,standard,none,81,84,82
+499,male,group A,some high school,standard,completed,62,67,69
+370,male,group E,associate's degree,free/reduced,completed,100,100,93
+198,male,group E,bachelor's degree,free/reduced,completed,70,68,72
+687,male,group C,some college,standard,none,53,44,42
+584,female,group A,some high school,free/reduced,none,38,43,43
+901,male,group E,some college,standard,none,66,57,52
+59,female,group B,associate's degree,standard,none,71,83,78
+328,male,group D,some college,standard,none,67,64,70
+96,male,group D,some college,free/reduced,none,70,63,58
+312,female,group B,some college,free/reduced,none,61,68,66
+974,male,group D,some college,free/reduced,none,61,47,56
+299,female,group B,high school,free/reduced,none,64,73,71
+277,male,group C,bachelor's degree,free/reduced,completed,70,75,74
+924,female,group D,some high school,standard,completed,64,60,74
+601,female,group D,master's degree,standard,none,92,100,100
+439,female,group D,some college,standard,completed,75,77,83
+837,female,group D,some college,standard,none,69,77,77
+570,female,group B,some high school,standard,completed,32,51,44
+879,male,group C,some high school,standard,none,51,52,44
+261,female,group D,some college,standard,none,51,58,54
+578,female,group B,some college,standard,none,70,75,78
+23,male,group C,high school,standard,completed,82,84,82
+30,male,group D,some college,standard,none,79,73,67
+617,male,group D,some high school,standard,none,55,47,44
+10,male,group B,some high school,standard,none,67,64,61
+221,female,group B,associate's degree,free/reduced,completed,76,94,87
+820,male,group C,master's degree,standard,none,79,72,69
+296,male,group A,some high school,free/reduced,none,79,82,73
+54,male,group B,some high school,standard,none,74,63,57
+542,male,group C,master's degree,standard,none,67,57,59
+209,male,group B,bachelor's degree,free/reduced,none,55,59,54
+604,female,group C,some college,standard,none,73,80,82
+692,male,group B,some college,standard,none,47,43,41
+662,male,group D,some college,standard,none,68,59,62
+866,female,group D,some college,free/reduced,none,55,71,69
+70,female,group A,associate's degree,free/reduced,none,65,85,76
+543,female,group C,bachelor's degree,free/reduced,completed,47,62,66
+107,male,group A,some college,standard,completed,61,51,52
+493,female,group C,some college,standard,completed,87,89,94
+590,female,group B,some high school,standard,none,82,82,80
+741,female,group D,associate's degree,free/reduced,none,55,76,76
+292,male,group D,some college,standard,none,55,58,52
+289,female,group D,some college,free/reduced,completed,59,78,76
+652,female,group C,associate's degree,standard,none,66,77,73
+39,male,group B,associate's degree,standard,none,90,78,81
+589,female,group C,bachelor's degree,standard,completed,77,94,95
+307,female,group E,some high school,free/reduced,none,38,49,45
+679,female,group E,high school,free/reduced,completed,66,74,78
+66,male,group E,some college,standard,none,69,60,54
+275,female,group A,some high school,free/reduced,none,44,45,45
+67,female,group B,associate's degree,standard,none,80,86,83
+318,female,group A,some college,standard,completed,78,87,91
+548,female,group D,some college,free/reduced,none,64,74,75
+998,female,group C,associate's degree,standard,none,65,77,74
+714,male,group D,master's degree,standard,none,73,70,75
+753,female,group C,bachelor's degree,standard,none,77,88,87
+327,female,group B,associate's degree,standard,none,57,69,68
+382,male,group B,bachelor's degree,standard,none,59,54,51
+451,male,group C,some high school,standard,none,62,64,55
+522,female,group B,associate's degree,standard,none,58,63,65
+218,female,group D,some high school,standard,completed,66,78,78
+787,male,group C,high school,standard,none,71,60,61
+436,male,group B,some college,standard,none,69,54,55
+764,female,group B,some high school,standard,completed,60,70,70
+88,male,group D,high school,standard,none,57,50,54
+63,female,group C,bachelor's degree,standard,none,63,75,81
+826,male,group D,bachelor's degree,standard,completed,68,74,74
+716,female,group E,high school,free/reduced,none,57,58,57
+351,female,group D,some high school,standard,none,59,67,61
+936,female,group C,bachelor's degree,standard,completed,79,92,89
+256,female,group C,associate's degree,standard,completed,62,76,80
+635,female,group D,some high school,standard,none,68,71,75
+644,female,group C,some college,standard,none,73,76,78
+554,female,group A,high school,free/reduced,completed,53,50,60
+959,female,group E,associate's degree,standard,none,51,51,54
+168,female,group D,high school,standard,none,62,64,64
+917,male,group D,high school,standard,completed,55,41,48
+528,male,group C,associate's degree,standard,none,69,77,69
+823,female,group C,high school,free/reduced,none,36,53,43
+985,male,group E,high school,standard,none,70,55,56
+816,male,group D,high school,standard,none,53,52,42
+86,female,group D,some college,standard,none,80,90,89
+432,female,group D,some college,free/reduced,completed,70,78,78
+184,female,group D,high school,standard,completed,56,68,74
+978,female,group E,associate's degree,standard,none,87,94,95
+534,male,group B,high school,standard,none,57,48,51
+294,male,group C,bachelor's degree,standard,none,86,83,86
+892,male,group D,bachelor's degree,standard,none,69,58,57
+425,male,group A,some high school,standard,none,64,50,43
+713,male,group B,associate's degree,standard,none,48,43,45
+260,male,group C,some high school,standard,none,49,49,41
+237,female,group A,some high school,free/reduced,none,44,64,58
+559,female,group C,some college,standard,none,54,48,52
+583,female,group D,some high school,standard,none,80,90,82
+445,male,group C,some college,standard,none,91,74,76
+867,male,group C,high school,free/reduced,none,59,53,52
+800,female,group C,associate's degree,standard,none,91,86,84
+599,male,group C,master's degree,standard,completed,91,85,85
+849,female,group A,high school,standard,completed,75,82,79
+265,male,group C,some college,standard,completed,98,86,90
+995,female,group D,high school,free/reduced,completed,52,57,56
+529,male,group C,high school,standard,none,70,56,51
+55,female,group C,some high school,free/reduced,none,43,53,53
+120,female,group E,master's degree,standard,none,62,68,68
+215,male,group C,some college,standard,completed,93,84,90
+25,female,group B,master's degree,standard,none,90,95,93
+72,male,group D,master's degree,standard,none,85,84,89
+44,male,group E,some college,standard,completed,99,87,81
+247,female,group B,high school,free/reduced,completed,46,54,58
+721,male,group E,some college,standard,none,97,87,82
+281,female,group B,some college,standard,none,79,86,92
+893,male,group B,high school,free/reduced,none,66,77,70
+914,female,group C,some college,free/reduced,none,76,83,88
+810,male,group A,high school,free/reduced,none,45,47,49
+244,male,group E,some high school,free/reduced,completed,78,83,80
+822,female,group C,some college,free/reduced,completed,45,73,70
+321,female,group C,some college,free/reduced,completed,63,73,71
+643,female,group D,some college,free/reduced,none,58,67,62
+158,male,group C,some college,standard,none,61,61,62
+977,female,group C,master's degree,free/reduced,completed,65,81,81
+429,female,group C,some high school,standard,completed,76,87,85
+941,female,group B,high school,standard,completed,58,70,68
+462,female,group D,bachelor's degree,free/reduced,none,62,72,74
+309,male,group E,some college,standard,none,68,72,65
+697,male,group B,some college,free/reduced,none,54,54,45
+60,male,group A,some high school,free/reduced,none,55,46,43
+884,male,group B,bachelor's degree,standard,none,63,71,69
+595,male,group C,associate's degree,free/reduced,completed,65,73,68
+767,male,group B,high school,standard,completed,72,65,68
+649,female,group C,high school,standard,none,66,71,76
+650,female,group E,master's degree,free/reduced,none,56,72,65
+865,female,group C,bachelor's degree,free/reduced,completed,66,74,81
+668,male,group A,associate's degree,free/reduced,none,62,61,55
+298,male,group B,high school,standard,none,59,58,47
+689,male,group C,associate's degree,standard,none,49,51,43
+314,female,group C,high school,free/reduced,none,41,46,43
+310,male,group C,associate's degree,standard,completed,78,77,77
+361,female,group D,some college,free/reduced,none,77,86,86
+479,male,group E,high school,standard,completed,81,80,76
+110,female,group C,bachelor's degree,standard,completed,92,100,99
+989,male,group B,some college,standard,completed,87,84,86
+486,female,group C,associate's degree,free/reduced,none,65,77,74
+363,male,group C,associate's degree,standard,none,92,79,84
+254,female,group B,high school,standard,none,65,64,62
+259,male,group D,associate's degree,standard,none,71,66,60
+802,male,group D,bachelor's degree,standard,none,80,73,72
+677,female,group C,master's degree,standard,completed,54,64,67
+494,female,group E,associate's degree,standard,none,85,92,85
+670,female,group E,high school,free/reduced,none,64,62,68
+377,female,group C,associate's degree,standard,completed,83,85,90
+526,female,group C,some college,standard,completed,88,93,93
+845,female,group E,high school,standard,completed,59,63,75
+137,male,group C,high school,standard,completed,72,67,64
+355,female,group C,bachelor's degree,standard,completed,52,61,66
+365,female,group B,associate's degree,standard,none,73,83,76
+942,male,group D,some high school,free/reduced,completed,55,59,59
+749,female,group E,bachelor's degree,free/reduced,completed,92,100,100
+948,male,group E,some college,free/reduced,completed,49,52,51
+829,female,group D,some college,free/reduced,none,49,58,60
+656,male,group C,bachelor's degree,standard,completed,63,64,66
+199,female,group C,high school,free/reduced,completed,59,71,65
+213,male,group D,high school,standard,none,76,73,68
+408,female,group E,bachelor's degree,standard,none,37,45,38
+332,male,group C,high school,free/reduced,completed,58,51,52
+208,male,group E,associate's degree,free/reduced,completed,77,69,68
+613,female,group E,some college,standard,completed,86,85,91
+78,male,group B,high school,free/reduced,none,49,45,45

@@ -1,6 +1,6 @@
 import sys
 import os
-# print(os.getcwd())
+print(os.getcwd())
 from src.mlproject.logger import logging
 
 def error_message_detail(error,error_detail:sys):
